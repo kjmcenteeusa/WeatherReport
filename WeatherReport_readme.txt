@@ -3,7 +3,7 @@ command line.
 
 For some reason, the code
 chops off the first three lines
-of the weather reports, but the
+of the first weather report, but the
 subsequent weather reports are
 OK. 
 
